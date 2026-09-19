@@ -1,11 +1,12 @@
 <!-- Source: Best-README-Template BLANK_README (Unlicense) — https://github.com/othneildrew/Best-README-Template -->
 <a id="readme-top"></a>
 
-# TestClone
+# testClone
 
-20190425 add this type.
+A personal 2019 test repository for trying out Git commits on GitHub; it holds no application source, only the repository scaffolding added later as a documentation baseline.
 
-[![CI](https://github.com/anyingiit/testClone/actions/workflows/ci.yml/badge.svg)](https://github.com/anyingiit/testClone/actions/workflows/ci.yml)
+**English** · [简体中文](README.zh-CN.md)
+
 [![License](https://img.shields.io/github/license/anyingiit/testClone)](LICENSE)
 
 [Report a bug](https://github.com/anyingiit/testClone/issues/new?template=bug_report.yml) · [Request a feature](https://github.com/anyingiit/testClone/issues/new?template=feature_request.yml)
@@ -24,28 +25,29 @@
 
 ## About The Project
 
-20190425 add this type.
+testClone is a personal scratch repository anyingiit used in April 2019 to try out committing and pushing changes on GitHub. Its original history is three commits — *Initial commit*, *add an type*, and *add a type* — each of which only ever edited `README.md`, leaving behind the one-line test note the earlier version of this file quoted as a project description. [`CHANGELOG.md`](CHANGELOG.md) records nothing beyond an "Initial project structure" entry, and the tree holds no source file, package manifest, or entry point of any kind.
 
-See the [open issues](https://github.com/anyingiit/testClone/issues) for planned features and known issues.
+What is here today, beyond that original line, is repository scaffolding (this README, `LICENSE`, `CONTRIBUTING.md`, issue templates) added afterwards as a documentation baseline. There was never an application in this repository to build or run.
 
 ## Getting Started
 
 ### Prerequisites
 
-- Git
+- A `git` client, to clone the repository and inspect its short commit history. No compiler, runtime, or package manager applies — the tree contains no manifest of any kind.
 
 ### Installation
 
+There is nothing to install. This repository is a historical test artifact, not a distributable package:
+
 ```sh
 git clone https://github.com/anyingiit/testClone.git
-cd testClone
 ```
+
+Cloning it retrieves the full history described above; there is no further setup step.
 
 ## Usage
 
-```sh
-testClone --help
-```
+There is no command or application to run. Read [`CHANGELOG.md`](CHANGELOG.md) or browse the git log to see the commits, dated April 2019, that make up this repository's original content.
 
 ## Contributing
 
